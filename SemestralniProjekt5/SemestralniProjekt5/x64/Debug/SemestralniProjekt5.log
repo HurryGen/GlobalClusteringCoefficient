@@ -1,0 +1,6 @@
+﻿  Graph.cpp
+D:\Projects\SemestralniProjekt5\SemestralniProjekt5\Graph.cpp(126,40): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+D:\Projects\SemestralniProjekt5\SemestralniProjekt5\Graph.cpp(131,45): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  SemestralniProjekt5.cpp
+  Generování kódu...
+  SemestralniProjekt5.vcxproj -> D:\Projects\SemestralniProjekt5\x64\Debug\SemestralniProjekt5.exe
